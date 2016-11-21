@@ -1,5 +1,5 @@
 # hello-world
-popping my git-hub cherry
+popping my github cherry
 
 
 testing commits and branches.
